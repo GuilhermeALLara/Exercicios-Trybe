@@ -3,3 +3,6 @@ O que irei aprender na tribe:
 - Unix
 - Bash
 - Git
+- HTML
+- CSS
+
