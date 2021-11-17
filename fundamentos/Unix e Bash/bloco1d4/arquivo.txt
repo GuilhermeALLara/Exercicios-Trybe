@@ -1,0 +1,9 @@
+Amarelo
+Azul
+Banana
+Laranja
+Maçã
+Preto
+Rosa
+Roxo
+Verde

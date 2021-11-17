@@ -1,0 +1,4 @@
+azul
+vermelho
+cinza
+roxo

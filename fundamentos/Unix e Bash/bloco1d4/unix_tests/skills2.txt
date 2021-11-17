@@ -1,0 +1,8 @@
+internet
+unix
+bash
+javaScript
+git
+github
+permissoes
+processos
