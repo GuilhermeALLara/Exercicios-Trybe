@@ -1,0 +1,42 @@
+h1 {
+    font-size: 65px;
+    color:orange;
+    font-family: sans-serif;
+} 
+
+p {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+body {
+    font-size: 16px;
+}
+
+#changeColor {
+    background-color: rgba(238, 160, 108, 0.973);
+}
+
+.changeColorAgain{ background-color: rgb(179, 240, 128);
+
+}
+
+li{
+    font-style: oblique;
+    line-height: 60px;
+    text-align: center;
+    text-decoration: underline white 3px;
+}
+
+#amarelo{
+    background-color: yellow;
+    font-size: 20px;
+}
+#vermelho{
+    background-color: red;
+    font-size: 20px;
+}
+#marrom{
+    background-color: brown;
+    font-size: 20px;
+}
