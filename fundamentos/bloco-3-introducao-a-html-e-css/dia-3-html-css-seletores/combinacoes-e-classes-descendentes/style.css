@@ -38,7 +38,7 @@ li em{
 #parceiros li a:hover {
     font-weight: 700;
 }
-/* sempre que no site referido exister um string contendo o nome desejado, usar o href*="palavrabuscada" para que seja feita a referência*/
+/* sempre que no site referido exister um string contendo o nome desejado, usar o href*="palavrabuscada" para que seja feita a referência (https://developer.mozilla.org/pt-BR/docs/Web/CSS/Attribute_selectors)*/
 
 #parceiros li a[href*="stackoverflow"] {
     color: orange;
