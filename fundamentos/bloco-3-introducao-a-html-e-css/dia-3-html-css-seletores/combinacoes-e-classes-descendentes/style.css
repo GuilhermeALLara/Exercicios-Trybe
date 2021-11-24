@@ -1,0 +1,61 @@
+ol li{
+    background-color: yellow;
+}
+
+ol li:nth-child(even){
+    color: green;
+}
+
+ol li:nth-child(odd){
+    text-transform: uppercase;
+}
+
+h1, h3{
+    color: red;
+}
+
+h1 em, h3 em{
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li{
+    font-size: 20px;
+}
+
+li em{
+    font-weight: bolder;
+}
+
+#linguagens li:not(:nth-child(n+4)){ /* not exclui o contido no () e nth-child é um seletor de posicionamento */
+    color: blue;
+}
+
+.change-bg{
+    background-color: pink;
+}
+
+#parceiros li a:hover {
+    font-weight: 700;
+}
+/* sempre que no site referido exister um string contendo o nome desejado, usar o href*="palavrabuscada" para que seja feita a referência*/
+
+#parceiros li a[href*="stackoverflow"] {
+    color: orange;
+  }
+  
+#parceiros li a[href*="w3schools"] {
+    color: green;
+  }
+  
+#parceiros li a[href*="mozilla"] {
+    color: black;
+  }
+  
+#parceiros li a[href*="devdocs"] {
+    color: yellow;
+  }
+  
+#parceiros li a[href*="trybe"] {
+    color: green;
+  }
