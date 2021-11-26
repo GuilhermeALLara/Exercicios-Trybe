@@ -1,6 +1,5 @@
 body{
     background-image: url(ocean.png);
-    width: 840px;
 }
 
 h1{
@@ -11,6 +10,7 @@ h1{
     text-align: center;
     padding: 15px;
     }
+    
 h2{
     font-family:Georgia, 'Times New Roman', Times, serif;
     background-color: white;
