@@ -65,6 +65,14 @@
       tagMain.className = 'main-conten';
       document.body.appendChild(tagMain);
 
+      let centerSection = document.createElement('section');
+      centerSection.className = 'center-content';
+      tagMain.appendChild(centerSection);
+
+      let paragraphCenter = document.createElement('p');
+      paragraphCenter.innerText = 'O centrão é terrível';
+      centerSection.append(paragraphCenter);
+
 
     </script>
   </body>
