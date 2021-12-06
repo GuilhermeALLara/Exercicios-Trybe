@@ -81,6 +81,23 @@
       rightSection.className = 'right-content';
       tagMain.appendChild(rightSection);
 
+      let addImage = document.createElement('img');
+      addImage.className = 'small-image';
+      addImage.src = 'https://picsum.photos/200';
+      leftSection.appendChild(addImage);
+
+      let numberList = document.createElement('ul');
+      rightSection.appendChild(numberList);      
+      let numbersArray = ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez']
+     
+      for(let i = 0; i < numbersArray.length; i += 1) {
+          let extenso = numbersArray[i];
+
+          let numbersArrayList = document.createElement('li');
+          numbersArrayList.innerText = extenso;
+
+          numberList.appendChild(numbersArrayList);
+      }
 
     </script>
   </body>
