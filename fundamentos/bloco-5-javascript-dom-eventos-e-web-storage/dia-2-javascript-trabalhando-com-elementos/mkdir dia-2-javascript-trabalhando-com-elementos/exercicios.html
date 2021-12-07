@@ -57,35 +57,37 @@
   </head>
   <body>
     <script>
+      
+      // 1
       let tagH1 = document.createElement('h1');
       tagH1.innerText = 'Exercício 5.2 - JavaScript DOM';
       document.body.appendChild(tagH1); // O .body é para identificar a variável como filho de body.
-        
+      //2  
       let tagMain = document.createElement('main');
-      tagMain.className = 'main-conten';
+      tagMain.className = 'main-content';
       document.body.appendChild(tagMain);
-
+      //3
       let centerSection = document.createElement('section');
       centerSection.className = 'center-content';
       tagMain.appendChild(centerSection);
-
+      //4
       let paragraphCenter = document.createElement('p');
       paragraphCenter.innerText = 'O centrão é terrível';
       centerSection.append(paragraphCenter);
-
+      //5
       let leftSection = document.createElement('section');
       leftSection.className = 'left-content';
       tagMain.appendChild(leftSection);
-
+      //6
       let rightSection = document.createElement('section');
       rightSection.className = 'right-content';
       tagMain.appendChild(rightSection);
-
+      //7
       let addImage = document.createElement('img');
       addImage.className = 'small-image';
       addImage.src = 'https://picsum.photos/200';
       leftSection.appendChild(addImage);
-
+      //8
       let numberList = document.createElement('ul');
       rightSection.appendChild(numberList);      
       let numbersArray = ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez']
@@ -98,6 +100,24 @@
 
           numberList.appendChild(numbersArrayList);
       }
+      //9
+      for (let index = 1; index <= 3; index += 1) {
+        let tagH3 = document.createElement('h3');
+        tagH3.innerHTML = 'Titulos em H3 ' + index;
+        tagH1.appendChild(tagH3);
+      }
+      //10
+      let title = document.querySelector('h1');
+      title.className = 'title';
+
+      //11
+      let tagsH3 = document.getElementsByTagName('h3');
+      for (let index = 0; index <= 3; index += 1) {
+       tagsH3[index].className = 'description';
+      }
+      //12
+      
+
 
     </script>
   </body>
