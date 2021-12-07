@@ -1,0 +1,39 @@
+<main id="paiDoPai">
+    <section id="pai">
+      <section id="primeiroFilho"></section>
+      <section id="elementoOndeVoceEsta">
+        <section id="primeiroFilhoDoFilho"></section>
+        <section id="segundoEUltimoFilhoDoFilho"></section>
+      </section>
+      Atenção!
+      <section id="terceiroFilho"></section>
+      <section id="quartoEUltimoFilho"></section>
+    </section>
+    <script>
+        // Crie um irmao para 'elementoOndeVoceEstá'
+        let pai = document.getElementById('pai');
+        let irmaoElementoOndeVoceEsta = document.createElement('section');
+        irmaoElementoOndeVoceEsta.id = 'irmaoDoElementoOndeVoceEsta'; // O '.id' significa que o item está sendo criado como ID, se fosse # seria criado como classe.
+        pai.appendChild(irmaoElementoOndeVoceEsta);
+
+        // Crie um Filho para elementoOndeVoceEsta
+
+        let elementoOndeVoceEsta = document.getElementById('elementoOndeVoceEsta');
+        let filhoElementoOndeVoceEsta = document.createElement('section');
+        filhoElementoOndeVoceEsta.id = 'filhoElementoOndeVoceEsta';
+        elementoOndeVoceEsta.appendChild(filhoElementoOndeVoceEsta);
+
+        // Crie um filho para primeiroFilhoDoFilho
+
+        let primeiroFilhoDoFilho = document.getElementById('primeiroFilhoDoFilho');
+        let filhoPrimeiroFilhoDoFilho = document.createElement('filhoPrimeiroFilhoDoFilho');
+        filhoPrimeiroFilhoDoFilho.id = 'filhoPrimeiroFilhoDoFilho';
+        primeiroFilhoDoFilho.appendChild(filhoPrimeiroFilhoDoFilho);
+
+        // A partir desse filho Criado, acesse 'Terceiro Filho'
+
+        let terceiroFilho = filhoPrimeiroFilhoDoFilho.parentElement.parentElement.nextElementSibling;
+        console.log(terceiroFilho);
+
+    </script>
+  </main>
