@@ -1,0 +1,438 @@
+[33mcommit a4d500b1b13b34ad3a9fd540bfbfdc900cd097ab[m[33m ([m[1;36mHEAD -> [m[1;32mexercicios/10.1[m[33m, [m[1;31morigin/exercicios/10.1[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Thu Feb 17 10:50:06 2022 -0300
+
+    Exercicios dia 10.1
+
+[33mcommit 3c48d0e8b64d77ff2e5ceb85c18fc37bdda13004[m[33m ([m[1;31morigin/exercicios/9.3[m[33m, [m[1;32mexercicios/9.3[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Thu Feb 17 09:33:55 2022 -0300
+
+    final bloco fundamentos
+
+[33mcommit f6a6836ac1dc5f21cafe0938ed46a3980570286e[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmain[m[33m)[m
+Merge: d60718a c2855b3
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Mon Jan 31 14:39:25 2022 -0300
+
+    Merge pull request #16 from GuilhermeALLara/exercicios/8.4
+    
+    Subindo 8.4
+
+[33mcommit c2855b301aee6928282278b8f253749d861c3124[m[33m ([m[1;31morigin/exercicios/8.4[m[33m, [m[1;32mexercicios/8.4[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Jan 31 14:38:27 2022 -0300
+
+    Subindo 8.4
+
+[33mcommit d60718a3b35163cd21ed43407b9d71e92bbd009a[m
+Merge: 8ef82f4 9a5ef26
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Thu Jan 20 15:50:24 2022 -0300
+
+    Merge pull request #15 from GuilhermeALLara/exercicios/8.2
+    
+    Tarefas dia 8.2
+
+[33mcommit 9a5ef26eca4edf83b52cfc465967c18d10a619e2[m[33m ([m[1;31morigin/exercicios/8.2[m[33m, [m[1;32mexercicios/8.2[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Thu Jan 20 15:48:51 2022 -0300
+
+    Tarefas dia 8.2
+
+[33mcommit 8ef82f442a50bd2d4138c5da2f8a022715af77b8[m
+Merge: 9f223e7 e96111b
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Wed Jan 19 15:30:03 2022 -0300
+
+    Merge pull request #14 from GuilhermeALLara/exercicios/8.1
+    
+    Exercicios/8.1
+
+[33mcommit e96111bc734ed41c1e16810fa751733b085d7cca[m[33m ([m[1;31morigin/exercicios/8.1[m[33m, [m[1;32mexercicios/8.1[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Jan 19 15:26:24 2022 -0300
+
+    Atividades dia 8.1
+
+[33mcommit bd7d2fc32b3122903053135dd0a841daa9e8c7ae[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Jan 14 15:22:42 2022 -0300
+
+    dia 7.2
+
+[33mcommit 9f223e7004f35d466247566fbf3f515a395f75c8[m
+Merge: 995957f da86256
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Thu Jan 13 14:37:52 2022 -0300
+
+    Merge pull request #13 from GuilhermeALLara/exercicios/7.1
+    
+    Exercicios/7.1
+
+[33mcommit da862566109e61d4edec8decf16c82a809716c6a[m[33m ([m[1;31morigin/exercicios/7.1[m[33m, [m[1;32mexercicios/7.1[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Thu Jan 13 14:35:50 2022 -0300
+
+    Subindo os exercicios de fixação
+
+[33mcommit b4240415567b3509ef503dbf5562a88e67f7af29[m[33m ([m[1;31morigin/exercicios/6.5[m[33m, [m[1;32mexercicios/6.5[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Jan 12 15:31:13 2022 -0300
+
+    Add tudo
+
+[33mcommit 995957fb31e93c53e80ddef47d3461ae45c17689[m
+Merge: 4ce1efa e35a2fc
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Wed Jan 5 14:53:52 2022 -0300
+
+    Merge pull request #12 from GuilhermeALLara/exercicios/6.1
+    
+    fixação
+
+[33mcommit e35a2fc3db55a7d0d32e8e1b853402575af61f82[m[33m ([m[1;31morigin/exercicios/6.1[m[33m, [m[1;32mtech-gallery[m[33m, [m[1;32mexercicios/6.3[m[33m, [m[1;32mexercicios/6.2[m[33m, [m[1;32mexercicios/6.1[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Jan 5 14:52:16 2022 -0300
+
+    fixação
+
+[33mcommit 4ce1efaaab18a8476173e8fa29c15ff6352a7344[m
+Merge: 46bb563 c5848e7
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Tue Jan 4 14:47:04 2022 -0300
+
+    Merge pull request #11 from GuilhermeALLara/exercicios/5.4
+    
+    Atualiza
+
+[33mcommit c5848e79edc42893b98225b32fa9c35e50921204[m[33m ([m[1;31morigin/exercicios/5.4[m[33m, [m[1;32mexercicios/5.4[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Tue Jan 4 14:45:29 2022 -0300
+
+    Atualiza
+
+[33mcommit 46bb5632a167cf950710570526587374f19c7f2d[m
+Merge: 00c6c33 aa0cb9d
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Wed Dec 8 14:43:52 2021 -0300
+
+    Merge pull request #10 from GuilhermeALLara/exercicios/5.3
+    
+    Bloco 5 Dia 3
+
+[33mcommit aa0cb9d9dc2f276dc8ad5bc1491f31c9b16a6915[m[33m ([m[1;31morigin/exercicios/5.3[m[33m, [m[1;32mexercicios/5.3[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Dec 8 14:42:50 2021 -0300
+
+    Bloco 5 Dia 3
+
+[33mcommit 00c6c3371c4b1bf53293050adf4675a927618617[m
+Merge: a9a45cf 78207d7
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Tue Dec 7 15:07:25 2021 -0300
+
+    Merge pull request #9 from GuilhermeALLara/exercicios/5.2
+    
+    Exercicios/5.2
+
+[33mcommit 78207d798bb40304c30200b551e1f438252706f2[m[33m ([m[1;31morigin/exercicios/5.2[m[33m, [m[1;32mexercicios/5.2[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Tue Dec 7 15:06:22 2021 -0300
+
+    Adiciona o dia 2 do bloco 5
+
+[33mcommit c4315b2581eaf7077c010b6239f34e167ec76650[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Dec 6 19:19:38 2021 -0300
+
+    Exercicios 1:ok; 2 ok; 3:ok; 4:ok; 5:ok; 6:ok; 7:ok; 8:ok;
+
+[33mcommit 3ccfdda372876b3dc610a338b2f08ea608d7cec3[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Dec 6 18:30:49 2021 -0300
+
+    Exercicios 1:ok; 2 ok; 3:ok; 4:ok; 5:ok; 6:ok
+
+[33mcommit 4a804441a935239fc6a092164b3c0d22a172534b[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Dec 6 18:27:00 2021 -0300
+
+    Exercicios 1:ok; 2 ok; 3:ok; 4:ok;
+
+[33mcommit 167526df085b4878b0c831e6282fb18e4c457b62[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Dec 6 18:20:48 2021 -0300
+
+    Exercicios 1: ok; 2: ok;
+
+[33mcommit 4a8dc60f9ed05561e98cbf5adc5e74f24d956f7a[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Dec 6 18:18:02 2021 -0300
+
+    Exercicios do dia 5.2 - 1 ok;
+
+[33mcommit a9a45cf525e8b95269f6c9c0a81d7cb0f55fe79e[m
+Merge: 73a79fc 9439c30
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Mon Dec 6 14:17:17 2021 -0300
+
+    Merge pull request #8 from GuilhermeALLara/exercicios/5.1
+    
+    Adiciona parte 1
+
+[33mcommit 9439c307279772728338214d9f26d39e3e17b541[m[33m ([m[1;31morigin/exercicios/5.1[m[33m, [m[1;32mexercicios/5.1[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Dec 3 20:07:12 2021 -0300
+
+    Adiciona parte 1
+
+[33mcommit 73a79fc3933c8f9c229c34113f02281de26ca0df[m
+Merge: dd0952c a7ddd7a
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Fri Dec 3 14:28:55 2021 -0300
+
+    Merge pull request #7 from GuilhermeALLara/exercicios/4.4
+    
+    Dia 4.4
+
+[33mcommit a7ddd7a370cdc434ee9ffebce251fb8d0b337951[m[33m ([m[1;31morigin/exercicios/4.4[m[33m, [m[1;32mexercicios/4.4[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Dec 3 14:24:26 2021 -0300
+
+    Dia 4.4
+
+[33mcommit dd0952cdc09f18c5f2480094819db45555547260[m
+Merge: bc9bb9c 2c76d44
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Wed Dec 1 15:01:01 2021 -0300
+
+    Merge pull request #6 from GuilhermeALLara/exercicios/4.3
+    
+    Exercicios/4.3
+
+[33mcommit 2c76d44b38d20dda9b5304056c8357aa0063ccc1[m[33m ([m[1;31morigin/exercicios/4.3[m[33m, [m[1;32mexercicios/4.3[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Tue Nov 30 19:57:11 2021 -0300
+
+    adiciona exercicios do dia
+
+[33mcommit 621290215f5066c7636155c67fc441452a62d71f[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Tue Nov 30 17:56:02 2021 -0300
+
+    Adiciona exercicios conteudo
+
+[33mcommit bc9bb9cecc178b17c03c47913a45cd30d6133b3d[m[33m ([m[1;32mexercicios/4.2[m[33m)[m
+Merge: 9510dfa bdb849b
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Mon Nov 29 15:20:14 2021 -0300
+
+    Merge pull request #5 from GuilhermeALLara/exercicios/4.1
+    
+    Exercicios/4.1
+
+[33mcommit bdb849b1675e5f5cbf91585c12b5132c6e88ca6a[m[33m ([m[1;31morigin/exercicios/4.1[m[33m, [m[1;32mexercicios/4.1[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Nov 29 15:12:54 2021 -0300
+
+    adiciona exercicios
+
+[33mcommit ab4cb363dc5cfcfdd7f027f5d554bec505409a9b[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Nov 26 19:43:59 2021 -0300
+
+    Adiciona exercicio 5
+
+[33mcommit a06eef0c8d7166224921b58829c98938ea836442[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Nov 26 19:18:04 2021 -0300
+
+    Adiciona exercicio 4
+
+[33mcommit 59e12de1bd3a806bde8d7e16138b0fcfe205850e[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Nov 26 19:13:37 2021 -0300
+
+    Adiciona o exercicio 3
+
+[33mcommit 8ec1f6016ed00fc68486813d518723f0f28cbcc2[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Nov 26 18:41:29 2021 -0300
+
+    Adiciona Exercicio 2
+
+[33mcommit c2439a1cfd35b1dcd7fc0321c2e95d657091ae3f[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Nov 26 18:35:45 2021 -0300
+
+    adiciona exercicio 1
+
+[33mcommit 9510dfa43076624d80bc7804366601aa0ea768f4[m
+Merge: 8549fe0 3f6b335
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Fri Nov 26 18:09:44 2021 -0300
+
+    Merge pull request #4 from GuilhermeALLara/exercicios/3.4
+    
+    Exercicios/3.4
+
+[33mcommit 3f6b335e5632a6bbc9fdbbc79ae9da683184e5dd[m[33m ([m[1;31morigin/exercicios/3.4[m[33m, [m[1;32mexercicios/3.4[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Nov 26 18:08:07 2021 -0300
+
+    Blocos 3 e 4
+
+[33mcommit 35dfc1e453c396f8cf093e3a894bb1adcbf7b4e8[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Thu Nov 25 10:48:04 2021 -0300
+
+    adiciona CSS ao pagina
+
+[33mcommit 1f2b2c0926f6cb4d8260181685576d35e5daeeff[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Thu Nov 25 09:38:05 2021 -0300
+
+    criaçao inicio da pagina sem css
+
+[33mcommit f568dd87cd3cb8a40505ccb17f9fdb922e8541c6[m[33m ([m[1;31morigin/exercicios/3.3[m[33m, [m[1;32mexercicios/3.3[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Nov 24 11:28:00 2021 -0300
+
+    adiciona site onde tirei informaçao
+
+[33mcommit 79277971215ff474df255467f7ab433a8b04f1bc[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Nov 24 11:26:55 2021 -0300
+
+    exercicio combinaçoes e classes descendentes
+
+[33mcommit 4731379b84b5146dc96bcb1f4d7c8c01ecd34aca[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Tue Nov 23 19:11:31 2021 -0300
+
+    Exercioco fixar 2
+
+[33mcommit 0fef95277fad4a0eaaec340d0261524e0ed9553f[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Tue Nov 23 16:19:56 2021 -0300
+
+    para fixar 1
+
+[33mcommit d2ceac4a3c47c76f813d252fb8100a219b321486[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Tue Nov 23 15:57:46 2021 -0300
+
+    Corrige posiçao dos exercicios
+
+[33mcommit 9bc3e33551cb412e7ac15ab8b126fe713345e35d[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Tue Nov 23 15:36:28 2021 -0300
+
+    exercicio de fixaçao 3.3
+
+[33mcommit a55c1df99e8a8f49eb7540093be582048bdff9f4[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Tue Nov 23 15:08:26 2021 -0300
+
+    realiza alteraçoes dos comentrarios
+
+[33mcommit be1c2bfba93e532beb7d02f306ea22f6cc90979a[m[33m ([m[1;31morigin/exercicios/3.2[m[33m, [m[1;32mexercicios/3.2[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Nov 22 19:21:49 2021 -0300
+
+    criado arquivo css contendo as o estilo do html
+
+[33mcommit 55400e308088a1ca195eba28ee6157d6b7ed7b7e[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Nov 22 19:12:59 2021 -0300
+
+    Adiciona font-style, font-heigth, font-size, text-aling e text-decoration no li e troca fundo das cores
+
+[33mcommit 9a5b782d748148becf5bebe5c3019a4e50b98829[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Nov 22 18:54:49 2021 -0300
+
+    Modifica o h1, fonte-size do paragrafo e do body
+
+[33mcommit 8549fe06628bffcca0141ae60e46216f7b17d6a0[m
+Merge: 4830165 58a30e4
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Mon Nov 22 17:52:09 2021 -0300
+
+    Merge pull request #3 from GuilhermeALLara/exercicios/3.2
+    
+    Exercicio 3.2.1
+
+[33mcommit 58a30e4bd4eab4667ce2898dca68911201ec9167[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Mon Nov 22 15:41:12 2021 -0300
+
+    Exercicio 3.2.1
+
+[33mcommit 4830165e354b51a90db982b4c03a165ceaea6e11[m
+Merge: df8e8ca 8f16212
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Fri Nov 19 18:38:02 2021 -0300
+
+    Merge pull request #2 from GuilhermeALLara/exercicios/3.1
+    
+    Atividade Lista de Amizades
+
+[33mcommit 8f16212c2d58c836d4c0914a3a318fb6e32949ea[m[33m ([m[1;31morigin/exercicios/3.1[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Nov 19 16:08:55 2021 -0300
+
+    Atividade Lista de Amizades
+
+[33mcommit df8e8ca635bdfff9d119af5feb04363f83612fa4[m
+Merge: e98d25c 9c1fd5b
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Nov 19 13:48:07 2021 -0300
+
+    a
+
+[33mcommit e98d25cf22e7def0db78b73c9fd179b87fd8fb66[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Fri Nov 19 13:45:08 2021 -0300
+
+    a
+
+[33mcommit 9c1fd5b74a8d46d24e14fb2a24bb5c860037f07b[m
+Merge: 0cf44db 1cc6b9e
+Author: GuilhermeLara <94175552+GuilhermeALLara@users.noreply.github.com>
+Date:   Wed Nov 17 19:21:17 2021 -0300
+
+    Merge pull request #1 from GuilhermeALLara/trybe-skills-changes
+    
+    Adicionadas novas skills
+
+[33mcommit 03ea841bee25f6f834a4468da7978966deae8d9e[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Nov 17 19:19:56 2021 -0300
+
+    Adicionada nova skills a ser aprendida
+
+[33mcommit 1cc6b9ed28b727d659b0f7908061b25934f51537[m[33m ([m[1;31morigin/trybe-skills-changes[m[33m)[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Nov 17 19:13:34 2021 -0300
+
+    Adicionadas novas skills
+
+[33mcommit 0cf44dbe67a4f6fcdb4dfbd700abf5c04b40a7f5[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Nov 17 18:49:20 2021 -0300
+
+    atualização README
+
+[33mcommit 3cd31dc44c410e4598a2031d24e3a4d0a4423ee1[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Nov 17 18:47:26 2021 -0300
+
+    atualização README
+
+[33mcommit 413833a84e8e09c3b4e12cc19c519b039ecc33dc[m
+Author: Guilherme Lara <guilaraa@gmail.com>
+Date:   Wed Nov 17 10:42:01 2021 -0300
+
+    Initial commit
